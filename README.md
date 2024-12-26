@@ -1,2 +1,2 @@
 # GitHubCloneProject
-GitHub clone 
+GitHub clone management
